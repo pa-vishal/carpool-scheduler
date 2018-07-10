@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/carpool-scheduler.iml" filepath="$PROJECT_DIR$/.idea/modules/carpool-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/carpool-scheduler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/carpool-scheduler_main.iml" group="carpool-scheduler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/carpool-scheduler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/carpool-scheduler_test.iml" group="carpool-scheduler" />
+    </modules>
+  </component>
+</project>
